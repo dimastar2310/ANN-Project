@@ -764,5 +764,4 @@ static char TestInput[TestPatt][Y][X] = {{
 "*********-",
 "----------"}};
 
-
 static double TestOutput[TestPatt + 1] = {0,0.5,1};

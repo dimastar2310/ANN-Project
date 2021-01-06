@@ -187,7 +187,6 @@ void BackPropagationNet::CalculateOutputWithBias()
 		{
 			Sum += WeigthsHidd[i][j] * InputLayer[j];
 		}
-
 		HiddenLayer[i] = (float)(1 / (1 + exp(-a * Sum)));
 	}
 
@@ -524,7 +523,6 @@ int BackPropagationNet::TestNet(Data& data_obj)
 
 	return Success;
 }
-
 
 
 
