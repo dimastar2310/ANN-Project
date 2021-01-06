@@ -41,7 +41,7 @@ using namespace std;
 
 #define InputNeurons  100	  
 #define HiddenNeurons 50
-
+#define a 0.1f
 #define sqr(x)        ((x)*(x))
 
 typedef int InArr[InputNeurons];
@@ -123,7 +123,9 @@ public:
 	const int ReturnOutput() { return OutputLayer; };
 
 	float LearningRate() { return nu; };
-	float ThresholdValue() { return Threshold; };
+	float Threshold1Value() { return Threshold1; };
+	float Threshold2Value() { return Threshold2; };
+
 };
 
 //********************* CLASS BACKPROPAGATIONNET *******************
@@ -186,7 +188,7 @@ void BackPropagationNet::CalculateOutputWithBias()
 			Sum += WeigthsHidd[i][j] * InputLayer[j];
 		}
 
-		HiddenLayer[i] = (float)(1 / (1 + exp(-a * sum)))
+		HiddenLayer[i] = (float)(1 / (1 + exp(-a * Sum)));
 	}
 
 	//Calculate output for output layer.
@@ -196,10 +198,9 @@ void BackPropagationNet::CalculateOutputWithBias()
 		Sum += WeigthsOut[n] * HiddenLayer[n];
 
 	//Make decision about output neuron.
-	if ((float)(1 / (1 + exp(-a * sum)) < (Threshold1))
+	if ((float)(1 / (1 + exp(-a * Sum))) < Threshold1)
 		OutputLayer = 0;
-
-	else if ((float)(1 / (1 + exp(-a * sum) < Threshold2 && (float)(1 / (1 + exp(-a * sum) >= Threshold1)
+	else if ((float)(1 / (1 + exp(-a * Sum))) < Threshold2 && (float)(1 / (1 + exp(-a * Sum))) >= Threshold1)
 		OutputLayer = 0.5;
 	else						                     //We can not decide.
 		OutputLayer = 1;
@@ -221,7 +222,7 @@ void BackPropagationNet::CalculateOutput()
 			Sum += WeigthsHidd[i][j] * InputLayer[j];
 		}
 
-		HiddenLayer[i] = (float)(1 / (1 + exp(-a * sum);
+		HiddenLayer[i] = (float)(1 / (1 + exp(-a * Sum)));
 	}
 
 	//Calculate output for output layer.
@@ -231,10 +232,12 @@ void BackPropagationNet::CalculateOutput()
 		Sum += WeigthsOut[n] * HiddenLayer[n];
 
 	//Make decision about output neuron.
-    if ((float)(1 / (1 + exp(-a * sum) < Threshold2 && (float)(1 / (1 + exp(-a * sum) >= Threshold1)
+    if ((float)(1 / (1 + exp(-a * Sum))) < Threshold2 && (float)(1 / (1 + exp(-a * Sum))) >= Threshold1)
 	OutputLayer = 0.5;
-	else if ((float)(1 / (1 + exp(-a * sum)) < (Threshold1))
+
+	else if ((float)(1 / (1 + exp(-a * Sum))) < (Threshold1))
 		OutputLayer = 0;
+
 	else						                     //We can not decide.
 		OutputLayer = 1;
 }
@@ -261,11 +264,11 @@ void BackPropagationNet::AdjustWeigthsWithBias(int Target)
 	float hidd_deltas[HiddenNeurons + 1], out_delta;
 
 	//Calcilate deltas for all layers.
-	float num1 = sqr(OutputLayer);
-	out_delta = (1 - sqr(OutputLayer)) * (Target - OutputLayer);
+	out_delta = (a * OutputLayer) * (1 - OutputLayer) * (Target - OutputLayer);
 
 	for (i = 0; i < HiddenNeurons + 1; i++)
-		hidd_deltas[i] = (1 - sqr(HiddenLayer[i])) * out_delta * WeigthsOut[i];
+		hidd_deltas[i] = (a * HiddenLayer[i]) * (1 - HiddenLayer[i]) * out_delta * WeigthsOut[i];
+		//(1 - sqr(HiddenLayer[i])) * out_delta * WeigthsOut[i];
 
 	//Change weigths.
 	for (i = 0; i < HiddenNeurons + 1; i++)
@@ -289,10 +292,10 @@ void BackPropagationNet::AdjustWeigths(int Target)
 	float hidd_deltas[HiddenNeurons], out_delta;
 
 	//Calcilate deltas for all layers.
-	out_delta = (1 - sqr(OutputLayer)) * (Target - OutputLayer);
+	out_delta = (a * OutputLayer) * (1 - OutputLayer) * (Target - OutputLayer);
 
 	for (i = 0; i < HiddenNeurons; i++)
-		hidd_deltas[i] = (1 - sqr(HiddenLayer[i])) * out_delta * WeigthsOut[i];
+		hidd_deltas[i] = (a * HiddenLayer[i]) * (1 - HiddenLayer[i]) * out_delta * WeigthsOut[i];
 
 	//Change weigths.
 	for (i = 0; i < HiddenNeurons; i++)
@@ -361,8 +364,8 @@ bool BackPropagationNet::TrainNetWithBias(Data& data_obj)
 		Success = ((data_obj.Units - Error) * 100) / data_obj.Units;
 		cout << Success << " %   success" << endl << endl;
 
-		if (Success < 90)
-			Threshold = RandomEqualReal(0.2f, 0.9f);
+		//if (Success < 90)
+			//Threshold = RandomEqualReal(0.2f, 0.9f);
 
 	} while (Success < 90 && loop <= 20000);
 
@@ -396,7 +399,7 @@ bool BackPropagationNet::TrainNet(Data& data_obj)
 		Error = 0;
 		loop++;
 
-		cout << "Threshold =    " << Threshold << endl;
+		cout << "Thresholds =    " << Threshold1 <<" , "<< Threshold1 << endl;
 
 		//Printing the number of loop.
 		if (loop < 10)
@@ -432,8 +435,8 @@ bool BackPropagationNet::TrainNet(Data& data_obj)
 		Success = ((data_obj.Units - Error) * 100) / data_obj.Units;
 		cout << Success << " %   success" << endl << endl;
 
-		if (Success < 90)
-			Threshold = RandomEqualReal(0.2f, 0.9f);
+		//if (Success < 90)
+			//Threshold = RandomEqualReal(0.2f, 0.9f);
 
 	} while (Success < 90 && loop <= 20000);
 

@@ -123,7 +123,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="BackPropagationNet_Project.cpp" />
+    <ClCompile Include="BackPropagation_1HiddenNeurons.cpp" />
     <ClCompile Include="Pattrens.dat" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

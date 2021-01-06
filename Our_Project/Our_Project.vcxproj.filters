@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BackPropagationNet_Project.cpp">
+    <ClCompile Include="Pattrens.dat">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Pattrens.dat">
+    <ClCompile Include="BackPropagation_1HiddenNeurons.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
