@@ -232,7 +232,7 @@ void BackPropagationNet::CalculateOutput()
 		Sum += WeigthsOut[n] * HiddenLayer[n];
 
 	//Make decision about output neuron.
-    if ((float)(1 / (1 + exp(-a * Sum))) < Threshold2 && (float)(1 / (1 + exp(-a * Sum))) >= Threshold1)
+    if ((float)(1 / (1 + exp(-a * Sum))) < Threshold2 && ((float)(1 / (1 + exp(-a * Sum)))) >= Threshold1)
 	OutputLayer = 0.5;
 
 	else if ((float)(1 / (1 + exp(-a * Sum))) < (Threshold1))
@@ -304,8 +304,7 @@ void BackPropagationNet::AdjustWeigths(int Target)
 	for (i = 0; i < HiddenNeurons; i++)
 	{
 		for (j = 0; j < InputNeurons + 1; j++)
-			WeigthsHidd[i][j] = WeigthsHidd[i][j] +
-			(nu * hidd_deltas[i] * InputLayer[j]);
+			WeigthsHidd[i][j] = WeigthsHidd[i][j] + (nu * hidd_deltas[i] * InputLayer[j]);
 	}
 }
 
@@ -399,7 +398,7 @@ bool BackPropagationNet::TrainNet(Data& data_obj)
 		Error = 0;
 		loop++;
 
-		cout << "Thresholds =    " << Threshold1 <<" , "<< Threshold1 << endl;
+		cout << "Thresholds =    " << Threshold1 <<" , "<< Threshold2 << endl;
 
 		//Printing the number of loop.
 		if (loop < 10)
@@ -623,7 +622,7 @@ void main()
 	cout << "file with results." << endl;
 
 	close(1);
-	int fd = open("result_bias.txt", O_CREAT | O_RDWR, 0777);
+	int fd = open("result_5_GROUPS.txt", O_CREAT | O_RDWR, 0777);
 
 	if (fd == -1)
 	{
@@ -631,54 +630,18 @@ void main()
 		return;
 	}
 
-	//TRAINING NETWORK WITH BIAS.
+	//TRAINING NETWORK WITH 5 GROUPS (15 SHAPES)
 	
-		if (!data_obj.SetInputOutput(TrainingInput1, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput2, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput3, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput4, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput5, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput6, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput7, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput8, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput9, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput10, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput11, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput12, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput13, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput14, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput15, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput16, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput17, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput18, TrainingOutput, TrainPatt))
-			return;
-		if (!data_obj.SetInputOutput(TrainingInput19, TrainingOutput, TrainPatt))
+		if (!data_obj.SetInputOutput(TrainingInput1, TrainingOutput1, TrainPatt))
 			return;
 
 	
-	while (!(flag = back_prop_obj.TrainNetWithBias(data_obj)))
+	while (!(flag = back_prop_obj.TrainNet(data_obj)))
 	{
 		back_prop_obj.Initialize();
 		close(fd);
-		remove("result_bias.txt");
-		fd = open("result_bias.txt", O_CREAT | O_RDWR, 0777);
+		remove("result_5_GROUPS.txt");
+		fd = open("result_5_GROUPS.txt", O_CREAT | O_RDWR, 0777);
 
 		if (fd == -1)
 		{
@@ -687,15 +650,15 @@ void main()
 		}
 	}
 
-	//TEST NETWORK WITH BIAS.
+	//TEST NETWORK 
 
 	if (!data_obj.SetInputOutput(TestInput, TestOutput, TestPatt))
 		return;
 
-	back_prop_obj.TestNetWithBias(data_obj);
+	back_prop_obj.TestNet(data_obj);
 
 	close(fd);
-	fd = open("result.txt", O_CREAT | O_RDWR, 0777);
+	fd = open("result_Test_5_Groups.txt", O_CREAT | O_RDWR, 0777);
 
 	if (fd == -1)
 	{
@@ -703,55 +666,19 @@ void main()
 		return;
 	}
 
-	//TRAINING NETWORK WITHOUT BIAS.
+	//TRAINING NETWORK WITH 10 GROUPS (30 SHAPES)
 
 	back_prop_obj.Initialize();
 
-	if (!data_obj.SetInputOutput(TrainingInput1, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput2, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput3, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput4, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput5, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput6, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput7, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput8, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput9, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput10, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput11, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput12, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput13, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput14, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput15, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput16, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput17, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput18, TrainingOutput, TrainPatt))
-		return;
-	if (!data_obj.SetInputOutput(TrainingInput19, TrainingOutput, TrainPatt))
+	if (!data_obj.SetInputOutput(TrainingInput2, TrainingOutput2, TrainPatt))
 		return;
 
 	while (!(flag = back_prop_obj.TrainNet(data_obj)))
 	{
 		back_prop_obj.Initialize();
 		close(fd);
-		remove("result.txt");
-		fd = open("result.txt", O_CREAT | O_RDWR, 0777);
+		remove("result_10_GROUPS.txt");
+		fd = open("result_10_GROUPS.txt", O_CREAT | O_RDWR, 0777);
 
 		if (fd == -1)
 		{
@@ -767,6 +694,43 @@ void main()
 
 	back_prop_obj.TestNet(data_obj);
 	close(fd);
+	fd = open("result_Test_10_Groups.txt", O_CREAT | O_RDWR, 0777);
+
+	if (fd == -1)
+	{
+		cout << "Error opening result file" << endl;
+		return;
+	}
+
+	//TRAINING NETWORK WITH 19 GROUPS (57 SHAPES)
+
+	back_prop_obj.Initialize();
+
+	if (!data_obj.SetInputOutput(TrainingInput3, TrainingOutput3, TrainPatt))
+		return;
+
+	while (!(flag = back_prop_obj.TrainNet(data_obj)))
+	{
+		back_prop_obj.Initialize();
+		close(fd);
+		remove("result_19_GROUPS.txt");
+		fd = open("result_19_GROUPS.txt", O_CREAT | O_RDWR, 0777);
+
+		if (fd == -1)
+		{
+			cout << "Error opening result file" << endl;
+			return;
+		}
+	}
+
+	//TEST NETWORK.
+
+	if (!data_obj.SetInputOutput(TestInput, TestOutput, TestPatt))
+		return;
+
+	back_prop_obj.TestNet(data_obj);
+	close(fd);
+
 }
 
 

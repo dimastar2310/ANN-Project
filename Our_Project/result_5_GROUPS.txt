@@ -1,0 +1,7062 @@
+
+   --------------------------------------------------------
+
+                       TRAINING NETWORK
+
+   --------------------------------------------------------
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1       ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2       ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  3       ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  4       ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  5       ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  6       ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  7       ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  8       ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  9       ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  10      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  11      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  12      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  13      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  14      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  15      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  16      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  17      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  18      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  19      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  20      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  21      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  22      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  23      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  24      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  25      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  26      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  27      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  28      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  29      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  30      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  31      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  32      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  33      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  34      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  35      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  36      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  37      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  38      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  39      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  40      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  41      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  42      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  43      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  44      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  45      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  46      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  47      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  48      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  49      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  50      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  51      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  52      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  53      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  54      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  55      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  56      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  57      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  58      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  59      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  60      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  61      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  62      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  63      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  64      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  65      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  66      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  67      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  68      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  69      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  70      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  71      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  72      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  73      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  74      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  75      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  76      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  77      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  78      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  79      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  80      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  81      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  82      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  83      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  84      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  85      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  86      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  87      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  88      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  89      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  90      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  91      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  92      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  93      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  94      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  95      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  96      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  97      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  98      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  99      ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  100     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  101     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  102     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  103     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  104     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  105     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  106     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  107     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  108     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  109     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  110     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  111     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  112     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  113     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  114     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  115     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  116     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  117     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  118     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  119     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  120     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  121     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  122     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  123     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  124     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  125     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  126     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  127     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  128     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  129     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  130     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  131     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  132     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  133     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  134     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  135     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  136     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  137     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  138     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  139     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  140     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  141     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  142     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  143     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  144     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  145     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  146     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  147     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  148     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  149     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  150     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  151     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  152     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  153     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  154     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  155     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  156     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  157     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  158     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  159     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  160     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  161     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  162     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  163     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  164     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  165     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  166     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  167     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  168     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  169     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  170     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  171     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  172     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  173     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  174     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  175     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  176     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  177     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  178     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  179     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  180     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  181     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  182     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  183     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  184     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  185     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  186     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  187     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  188     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  189     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  190     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  191     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  192     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  193     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  194     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  195     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  196     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  197     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  198     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  199     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  200     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  201     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  202     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  203     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  204     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  205     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  206     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  207     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  208     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  209     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  210     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  211     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  212     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  213     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  214     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  215     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  216     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  217     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  218     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  219     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  220     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  221     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  222     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  223     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  224     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  225     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  226     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  227     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  228     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  229     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  230     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  231     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  232     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  233     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  234     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  235     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  236     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  237     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  238     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  239     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  240     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  241     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  242     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  243     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  244     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  245     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  246     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  247     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  248     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  249     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  250     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  251     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  252     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  253     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  254     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  255     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  256     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  257     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  258     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  259     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  260     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  261     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  262     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  263     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  264     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  265     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  266     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  267     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  268     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  269     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  270     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  271     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  272     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  273     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  274     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  275     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  276     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  277     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  278     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  279     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  280     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  281     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  282     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  283     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  284     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  285     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  286     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  287     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  288     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  289     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  290     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  291     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  292     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  293     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  294     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  295     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  296     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  297     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  298     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  299     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  300     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  301     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  302     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  303     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  304     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  305     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  306     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  307     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  308     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  309     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  310     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  311     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  312     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  313     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  314     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  315     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  316     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  317     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  318     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  319     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  320     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  321     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  322     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  323     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  324     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  325     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  326     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  327     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  328     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  329     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  330     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  331     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  332     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  333     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  334     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  335     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  336     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  337     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  338     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  339     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  340     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  341     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  342     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  343     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  344     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  345     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  346     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  347     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  348     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  349     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  350     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  351     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  352     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  353     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  354     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  355     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  356     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  357     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  358     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  359     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  360     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  361     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  362     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  363     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  364     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  365     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  366     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  367     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  368     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  369     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  370     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  371     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  372     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  373     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  374     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  375     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  376     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  377     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  378     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  379     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  380     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  381     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  382     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  383     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  384     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  385     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  386     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  387     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  388     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  389     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  390     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  391     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  392     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  393     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  394     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  395     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  396     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  397     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  398     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  399     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  400     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  401     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  402     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  403     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  404     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  405     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  406     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  407     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  408     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  409     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  410     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  411     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  412     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  413     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  414     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  415     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  416     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  417     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  418     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  419     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  420     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  421     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  422     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  423     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  424     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  425     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  426     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  427     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  428     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  429     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  430     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  431     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  432     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  433     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  434     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  435     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  436     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  437     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  438     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  439     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  440     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  441     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  442     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  443     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  444     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  445     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  446     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  447     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  448     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  449     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  450     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  451     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  452     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  453     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  454     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  455     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  456     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  457     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  458     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  459     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  460     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  461     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  462     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  463     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  464     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  465     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  466     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  467     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  468     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  469     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  470     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  471     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  472     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  473     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  474     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  475     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  476     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  477     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  478     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  479     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  480     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  481     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  482     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  483     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  484     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  485     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  486     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  487     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  488     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  489     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  490     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  491     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  492     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  493     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  494     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  495     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  496     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  497     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  498     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  499     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  500     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  501     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  502     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  503     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  504     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  505     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  506     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  507     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  508     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  509     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  510     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  511     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  512     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  513     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  514     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  515     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  516     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  517     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  518     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  519     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  520     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  521     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  522     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  523     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  524     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  525     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  526     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  527     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  528     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  529     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  530     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  531     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  532     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  533     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  534     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  535     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  536     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  537     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  538     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  539     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  540     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  541     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  542     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  543     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  544     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  545     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  546     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  547     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  548     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  549     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  550     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  551     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  552     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  553     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  554     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  555     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  556     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  557     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  558     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  559     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  560     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  561     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  562     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  563     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  564     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  565     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  566     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  567     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  568     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  569     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  570     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  571     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  572     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  573     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  574     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  575     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  576     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  577     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  578     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  579     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  580     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  581     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  582     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  583     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  584     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  585     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  586     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  587     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  588     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  589     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  590     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  591     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  592     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  593     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  594     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  595     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  596     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  597     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  598     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  599     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  600     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  601     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  602     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  603     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  604     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  605     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  606     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  607     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  608     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  609     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  610     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  611     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  612     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  613     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  614     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  615     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  616     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  617     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  618     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  619     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  620     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  621     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  622     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  623     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  624     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  625     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  626     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  627     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  628     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  629     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  630     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  631     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  632     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  633     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  634     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  635     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  636     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  637     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  638     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  639     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  640     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  641     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  642     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  643     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  644     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  645     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  646     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  647     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  648     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  649     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  650     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  651     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  652     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  653     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  654     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  655     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  656     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  657     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  658     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  659     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  660     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  661     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  662     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  663     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  664     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  665     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  666     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  667     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  668     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  669     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  670     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  671     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  672     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  673     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  674     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  675     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  676     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  677     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  678     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  679     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  680     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  681     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  682     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  683     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  684     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  685     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  686     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  687     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  688     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  689     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  690     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  691     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  692     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  693     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  694     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  695     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  696     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  697     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  698     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  699     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  700     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  701     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  702     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  703     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  704     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  705     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  706     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  707     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  708     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  709     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  710     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  711     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  712     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  713     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  714     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  715     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  716     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  717     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  718     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  719     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  720     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  721     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  722     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  723     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  724     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  725     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  726     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  727     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  728     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  729     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  730     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  731     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  732     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  733     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  734     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  735     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  736     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  737     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  738     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  739     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  740     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  741     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  742     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  743     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  744     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  745     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  746     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  747     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  748     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  749     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  750     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  751     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  752     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  753     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  754     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  755     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  756     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  757     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  758     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  759     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  760     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  761     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  762     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  763     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  764     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  765     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  766     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  767     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  768     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  769     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  770     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  771     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  772     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  773     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  774     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  775     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  776     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  777     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  778     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  779     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  780     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  781     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  782     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  783     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  784     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  785     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  786     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  787     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  788     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  789     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  790     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  791     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  792     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  793     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  794     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  795     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  796     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  797     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  798     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  799     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  800     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  801     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  802     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  803     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  804     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  805     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  806     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  807     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  808     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  809     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  810     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  811     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  812     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  813     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  814     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  815     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  816     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  817     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  818     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  819     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  820     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  821     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  822     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  823     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  824     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  825     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  826     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  827     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  828     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  829     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  830     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  831     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  832     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  833     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  834     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  835     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  836     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  837     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  838     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  839     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  840     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  841     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  842     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  843     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  844     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  845     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  846     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  847     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  848     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  849     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  850     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  851     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  852     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  853     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  854     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  855     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  856     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  857     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  858     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  859     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  860     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  861     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  862     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  863     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  864     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  865     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  866     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  867     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  868     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  869     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  870     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  871     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  872     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  873     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  874     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  875     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  876     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  877     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  878     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  879     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  880     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  881     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  882     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  883     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  884     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  885     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  886     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  887     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  888     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  889     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  890     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  891     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  892     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  893     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  894     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  895     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  896     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  897     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  898     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  899     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  900     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  901     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  902     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  903     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  904     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  905     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  906     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  907     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  908     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  909     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  910     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  911     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  912     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  913     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  914     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  915     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  916     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  917     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  918     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  919     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  920     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  921     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  922     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  923     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  924     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  925     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  926     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  927     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  928     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  929     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  930     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  931     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  932     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  933     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  934     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  935     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  936     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  937     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  938     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  939     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  940     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  941     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  942     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  943     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  944     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  945     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  946     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  947     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  948     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  949     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  950     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  951     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  952     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  953     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  954     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  955     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  956     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  957     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  958     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  959     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  960     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  961     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  962     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  963     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  964     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  965     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  966     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  967     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  968     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  969     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  970     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  971     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  972     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  973     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  974     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  975     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  976     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  977     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  978     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  979     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  980     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  981     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  982     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  983     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  984     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  985     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  986     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  987     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  988     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  989     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  990     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  991     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  992     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  993     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  994     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  995     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  996     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  997     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  998     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  999     ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1000    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1001    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1002    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1003    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1004    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1005    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1006    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1007    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1008    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1009    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1010    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1011    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1012    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1013    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1014    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1015    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1016    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1017    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1018    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1019    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1020    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1021    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1022    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1023    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1024    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1025    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1026    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1027    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1028    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1029    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1030    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1031    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1032    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1033    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1034    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1035    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1036    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1037    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1038    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1039    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1040    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1041    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1042    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1043    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1044    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1045    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1046    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1047    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1048    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1049    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1050    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1051    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1052    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1053    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1054    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1055    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1056    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1057    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1058    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1059    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1060    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1061    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1062    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1063    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1064    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1065    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1066    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1067    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1068    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1069    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1070    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1071    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1072    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1073    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1074    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1075    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1076    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1077    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1078    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1079    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1080    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1081    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1082    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1083    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1084    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1085    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1086    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1087    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1088    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1089    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1090    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1091    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1092    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1093    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1094    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1095    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1096    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1097    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1098    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1099    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1100    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1101    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1102    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1103    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1104    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1105    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1106    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1107    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1108    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1109    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1110    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1111    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1112    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1113    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1114    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1115    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1116    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1117    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1118    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1119    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1120    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1121    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1122    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1123    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1124    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1125    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1126    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1127    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1128    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1129    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1130    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1131    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1132    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1133    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1134    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1135    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1136    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1137    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1138    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1139    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1140    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1141    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1142    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1143    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1144    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1145    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1146    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1147    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1148    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1149    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1150    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1151    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1152    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1153    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1154    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1155    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1156    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1157    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1158    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1159    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1160    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1161    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1162    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1163    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1164    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1165    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1166    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1167    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1168    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1169    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1170    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1171    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1172    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1173    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1174    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1175    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1176    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1177    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1178    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1179    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1180    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1181    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1182    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1183    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1184    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1185    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1186    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1187    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1188    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1189    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1190    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1191    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1192    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1193    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1194    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1195    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1196    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1197    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1198    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1199    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1200    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1201    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1202    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1203    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1204    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1205    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1206    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1207    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1208    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1209    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1210    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1211    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1212    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1213    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1214    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1215    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1216    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1217    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1218    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1219    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1220    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1221    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1222    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1223    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1224    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1225    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1226    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1227    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1228    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1229    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1230    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1231    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1232    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1233    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1234    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1235    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1236    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1237    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1238    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1239    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1240    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1241    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1242    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1243    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1244    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1245    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1246    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1247    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1248    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1249    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1250    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1251    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1252    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1253    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1254    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1255    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1256    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1257    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1258    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1259    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1260    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1261    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1262    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1263    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1264    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1265    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1266    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1267    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1268    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1269    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1270    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1271    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1272    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1273    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1274    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1275    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1276    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1277    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1278    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1279    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1280    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1281    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1282    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1283    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1284    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1285    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1286    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1287    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1288    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1289    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1290    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1291    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1292    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1293    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1294    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1295    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1296    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1297    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1298    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1299    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1300    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1301    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1302    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1303    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1304    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1305    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1306    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1307    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1308    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1309    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1310    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1311    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1312    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1313    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1314    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1315    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1316    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1317    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1318    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1319    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1320    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1321    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1322    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1323    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1324    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1325    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1326    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1327    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1328    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1329    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1330    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1331    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1332    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1333    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1334    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1335    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1336    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1337    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1338    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1339    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1340    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1341    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1342    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1343    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1344    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1345    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1346    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1347    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1348    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1349    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1350    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1351    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1352    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1353    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1354    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1355    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1356    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1357    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1358    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1359    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1360    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1361    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1362    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1363    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1364    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1365    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1366    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1367    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1368    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1369    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1370    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1371    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1372    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1373    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1374    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1375    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1376    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1377    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1378    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1379    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1380    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1381    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1382    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1383    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1384    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1385    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1386    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1387    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1388    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1389    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1390    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1391    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1392    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1393    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1394    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1395    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1396    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1397    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1398    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1399    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1400    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1401    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1402    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1403    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1404    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1405    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1406    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1407    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1408    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1409    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1410    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1411    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1412    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1413    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1414    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1415    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1416    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1417    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1418    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1419    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1420    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1421    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1422    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1423    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1424    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1425    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1426    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1427    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1428    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1429    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1430    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1431    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1432    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1433    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1434    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1435    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1436    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1437    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1438    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1439    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1440    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1441    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1442    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1443    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1444    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1445    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1446    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1447    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1448    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1449    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1450    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1451    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1452    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1453    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1454    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1455    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1456    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1457    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1458    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1459    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1460    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1461    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1462    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1463    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1464    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1465    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1466    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1467    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1468    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1469    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1470    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1471    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1472    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1473    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1474    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1475    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1476    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1477    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1478    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1479    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1480    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1481    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1482    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1483    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1484    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1485    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1486    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1487    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1488    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1489    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1490    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1491    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1492    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1493    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1494    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1495    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1496    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1497    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1498    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1499    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1500    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1501    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1502    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1503    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1504    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1505    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1506    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1507    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1508    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1509    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1510    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1511    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1512    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1513    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1514    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1515    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1516    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1517    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1518    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1519    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1520    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1521    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1522    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1523    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1524    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1525    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1526    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1527    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1528    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1529    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1530    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1531    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1532    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1533    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1534    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1535    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1536    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1537    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1538    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1539    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1540    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1541    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1542    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1543    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1544    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1545    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1546    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1547    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1548    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1549    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1550    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1551    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1552    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1553    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1554    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1555    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1556    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1557    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1558    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1559    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1560    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1561    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1562    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1563    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1564    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1565    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1566    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1567    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1568    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1569    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1570    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1571    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1572    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1573    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1574    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1575    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1576    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1577    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1578    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1579    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1580    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1581    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1582    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1583    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1584    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1585    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1586    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1587    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1588    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1589    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1590    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1591    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1592    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1593    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1594    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1595    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1596    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1597    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1598    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1599    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1600    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1601    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1602    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1603    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1604    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1605    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1606    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1607    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1608    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1609    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1610    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1611    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1612    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1613    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1614    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1615    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1616    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1617    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1618    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1619    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1620    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1621    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1622    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1623    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1624    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1625    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1626    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1627    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1628    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1629    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1630    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1631    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1632    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1633    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1634    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1635    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1636    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1637    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1638    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1639    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1640    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1641    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1642    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1643    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1644    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1645    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1646    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1647    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1648    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1649    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1650    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1651    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1652    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1653    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1654    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1655    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1656    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1657    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1658    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1659    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1660    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1661    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1662    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1663    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1664    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1665    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1666    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1667    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1668    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1669    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1670    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1671    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1672    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1673    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1674    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1675    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1676    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1677    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1678    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1679    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1680    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1681    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1682    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1683    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1684    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1685    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1686    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1687    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1688    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1689    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1690    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1691    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1692    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1693    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1694    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1695    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1696    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1697    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1698    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1699    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1700    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1701    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1702    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1703    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1704    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1705    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1706    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1707    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1708    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1709    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1710    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1711    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1712    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1713    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1714    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1715    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1716    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1717    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1718    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1719    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1720    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1721    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1722    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1723    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1724    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1725    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1726    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1727    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1728    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1729    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1730    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1731    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1732    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1733    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1734    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1735    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1736    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1737    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1738    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1739    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1740    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1741    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1742    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1743    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1744    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1745    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1746    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1747    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1748    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1749    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1750    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1751    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1752    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1753    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1754    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1755    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1756    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1757    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1758    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1759    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1760    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1761    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1762    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1763    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1764    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1765    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1766    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1767    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1768    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1769    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1770    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1771    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1772    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1773    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1774    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1775    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1776    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1777    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1778    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1779    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1780    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1781    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1782    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1783    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1784    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1785    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1786    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1787    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1788    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1789    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1790    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1791    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1792    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1793    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1794    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1795    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1796    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1797    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1798    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1799    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1800    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1801    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1802    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1803    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1804    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1805    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1806    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1807    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1808    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1809    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1810    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1811    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1812    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1813    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1814    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1815    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1816    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1817    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1818    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1819    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1820    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1821    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1822    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1823    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1824    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1825    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1826    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1827    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1828    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1829    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1830    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1831    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1832    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1833    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1834    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1835    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1836    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1837    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1838    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1839    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1840    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1841    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1842    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1843    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1844    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1845    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1846    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1847    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1848    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1849    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1850    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1851    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1852    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1853    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1854    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1855    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1856    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1857    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1858    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1859    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1860    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1861    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1862    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1863    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1864    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1865    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1866    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1867    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1868    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1869    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1870    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1871    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1872    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1873    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1874    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1875    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1876    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1877    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1878    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1879    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1880    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1881    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1882    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1883    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1884    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1885    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1886    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1887    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1888    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1889    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1890    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1891    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1892    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1893    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1894    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1895    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1896    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1897    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1898    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1899    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1900    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1901    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1902    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1903    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1904    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1905    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1906    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1907    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1908    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1909    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1910    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1911    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1912    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1913    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1914    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1915    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1916    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1917    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1918    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1919    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1920    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1921    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1922    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1923    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1924    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1925    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1926    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1927    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1928    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1929    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1930    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1931    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1932    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1933    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1934    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1935    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1936    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1937    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1938    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1939    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1940    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1941    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1942    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1943    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1944    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1945    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1946    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1947    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1948    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1949    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1950    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1951    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1952    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1953    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1954    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1955    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1956    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1957    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1958    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1959    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1960    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1961    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1962    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1963    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1964    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1965    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1966    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1967    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1968    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1969    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1970    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1971    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1972    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1973    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1974    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1975    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1976    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1977    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1978    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1979    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1980    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1981    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1982    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1983    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1984    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1985    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1986    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1987    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1988    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1989    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1990    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1991    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1992    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1993    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1994    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1995    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1996    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1997    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1998    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  1999    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2000    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2001    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2002    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2003    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2004    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2005    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2006    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2007    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2008    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2009    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2010    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2011    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2012    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2013    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2014    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2015    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2016    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2017    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2018    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2019    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2020    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2021    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2022    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2023    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2024    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2025    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2026    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2027    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2028    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2029    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2030    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2031    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2032    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2033    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2034    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2035    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2036    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2037    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2038    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2039    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2040    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2041    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2042    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2043    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2044    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2045    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2046    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2047    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2048    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2049    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2050    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2051    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2052    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2053    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2054    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2055    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2056    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2057    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2058    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2059    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2060    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2061    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2062    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2063    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2064    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2065    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2066    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2067    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2068    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2069    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2070    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2071    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2072    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2073    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2074    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2075    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2076    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2077    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2078    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2079    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2080    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2081    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2082    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2083    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2084    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2085    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2086    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2087    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2088    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2089    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2090    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2091    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2092    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2093    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2094    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2095    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2096    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2097    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2098    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2099    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2100    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2101    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2102    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2103    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2104    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2105    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2106    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2107    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2108    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2109    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2110    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2111    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2112    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2113    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2114    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2115    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2116    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2117    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2118    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2119    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2120    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2121    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2122    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2123    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2124    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2125    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2126    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2127    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2128    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2129    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2130    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2131    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2132    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2133    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2134    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2135    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2136    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2137    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2138    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2139    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2140    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2141    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2142    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2143    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2144    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2145    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2146    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2147    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2148    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2149    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2150    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2151    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2152    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2153    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2154    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2155    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2156    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2157    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2158    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2159    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2160    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2161    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2162    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2163    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2164    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2165    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2166    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2167    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2168    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2169    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2170    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2171    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2172    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2173    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2174    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2175    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2176    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2177    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2178    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2179    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2180    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2181    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2182    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2183    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2184    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2185    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2186    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2187    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2188    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2189    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2190    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2191    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2192    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2193    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2194    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2195    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2196    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2197    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2198    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2199    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2200    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2201    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2202    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2203    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2204    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2205    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2206    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2207    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2208    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2209    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2210    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2211    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2212    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2213    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2214    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2215    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2216    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2217    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2218    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2219    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2220    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2221    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2222    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2223    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2224    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2225    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2226    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2227    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2228    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2229    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2230    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2231    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2232    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2233    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2234    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2235    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2236    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2237    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2238    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2239    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2240    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2241    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2242    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2243    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2244    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2245    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2246    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2247    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2248    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2249    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2250    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2251    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2252    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2253    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2254    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2255    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2256    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2257    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2258    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2259    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2260    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2261    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2262    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2263    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2264    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2265    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2266    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2267    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2268    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2269    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2270    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2271    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2272    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2273    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2274    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2275    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2276    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2277    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2278    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2279    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2280    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2281    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2282    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2283    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2284    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2285    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2286    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2287    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2288    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2289    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2290    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2291    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2292    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2293    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2294    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2295    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2296    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2297    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2298    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2299    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2300    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2301    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2302    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2303    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2304    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2305    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2306    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2307    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2308    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2309    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2310    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2311    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2312    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2313    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2314    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2315    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2316    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2317    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2318    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2319    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2320    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2321    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2322    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2323    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2324    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2325    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2326    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2327    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2328    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2329    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2330    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2331    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2332    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2333    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2334    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2335    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2336    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2337    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2338    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2339    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2340    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2341    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2342    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2343    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2344    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2345    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2346    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2347    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2348    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2349    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2350    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2351    ...   0 %   success
+
+Thresholds =    0.33333 , 0.33333
+Training loop:  2352    ...   0 %   success
