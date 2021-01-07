@@ -29,6 +29,7 @@ using namespace std;
 #include <iostream>
 #include<stdlib.h>
 #include<time.h>
+#include<string>
 #include<math.h>
 #include<fcntl.h>
 #include<sys\stat.h>
@@ -59,7 +60,7 @@ public:
 	~Data();
 
 	//Set input and output vectors from patterns.
-	bool SetInputOutput(char[][Y][X], char*, int);
+	bool SetInputOutput(char[][Y][X], double*, int);
 
 	//Free memory of Input and Output units
 	void Reset();
@@ -145,8 +146,8 @@ BackPropagationNet::BackPropagationNet()
 void BackPropagationNet::Initialize()
 {
 	int i, j;
-	Threshold1 = 1 / 3;
-	Threshold2 =  2 / 3;
+	Threshold1 = 0.33333f;
+	Threshold2 =  0.66666f;
 	NetError = false;
 	
 
@@ -559,7 +560,7 @@ void Data::Reset()
 //_________________________________________________________________________
 
 
-bool Data::SetInputOutput(char In[][Y][X], char* Out, int num_patterns)
+bool Data::SetInputOutput(char In[][Y][X], double* Out, int num_patterns)
 {
 	int n, i, j;
 
@@ -631,10 +632,47 @@ void main()
 	}
 
 	//TRAINING NETWORK WITH BIAS.
+	
+		if (!data_obj.SetInputOutput(TrainingInput1, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput2, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput3, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput4, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput5, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput6, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput7, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput8, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput9, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput10, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput11, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput12, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput13, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput14, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput15, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput16, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput17, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput18, TrainingOutput, TrainPatt))
+			return;
+		if (!data_obj.SetInputOutput(TrainingInput19, TrainingOutput, TrainPatt))
+			return;
 
-	if (!data_obj.SetInputOutput(TrainingInput, TrainingOutput, TrainPatt))
-		return;
-
+	
 	while (!(flag = back_prop_obj.TrainNetWithBias(data_obj)))
 	{
 		back_prop_obj.Initialize();
@@ -669,7 +707,43 @@ void main()
 
 	back_prop_obj.Initialize();
 
-	if (!data_obj.SetInputOutput(TrainingInput, TrainingOutput, TrainPatt))
+	if (!data_obj.SetInputOutput(TrainingInput1, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput2, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput3, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput4, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput5, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput6, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput7, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput8, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput9, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput10, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput11, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput12, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput13, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput14, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput15, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput16, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput17, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput18, TrainingOutput, TrainPatt))
+		return;
+	if (!data_obj.SetInputOutput(TrainingInput19, TrainingOutput, TrainPatt))
 		return;
 
 	while (!(flag = back_prop_obj.TrainNet(data_obj)))
